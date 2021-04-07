@@ -1,9 +1,11 @@
-# Dashboard-N-Day-Ventas-Ferreterias
+# Dashboard in a Day: Ventas de Ferreterías
+
+
+## Instrucciones
 
 Descargar los archivos:
+* VentasElMartillo.xlsx
+* martillo.jpg
 
-VentasElMartillo.xlsx
-martillo.jpg
-
-Colocar los archivos en el directorico c:\TechDay
+Ya descargados los archivos, crear un directorio llamado *TechDay* en la raíz, quedando así el directorio: *C:\TechDay*
 
