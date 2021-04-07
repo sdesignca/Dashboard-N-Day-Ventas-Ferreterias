@@ -10,5 +10,5 @@ Descargar los archivos:
 * VentasElMartillo.xlsx
 * martillo.jpg
 
-Ya descargados los archivos, crear un directorio llamado **TechDay** en la raíz, quedando así el directorio: **C:\TechDay**
+Ya descargados los archivos, crear un directorio llamado **TechDay** en la raíz, quedando el directorio: **C:\TechDay**
 
